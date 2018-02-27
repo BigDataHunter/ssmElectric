@@ -1,0 +1,2 @@
+# ssmElectric
+ssm ubuntu
